@@ -1,0 +1,10 @@
+.vscode/
+*.code-workspace
+
+__pycache__
+
+/temp/
+screencap/*
+/lianliankan/
+/test.py
+/test.png
